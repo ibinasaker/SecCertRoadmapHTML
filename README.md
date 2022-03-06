@@ -7,6 +7,10 @@ I am open to restructing this html if a better way is known. I am a beginner at 
 
 ## Change Log
 
+### March 2022:
+- Changed depricated Cloud Security Alliance Certification: CGC to CCAK
+- Added GIAC Certification: GCLD
+- Added Linux Foundation Certification: CKS
 ### July 2021:
 - Added Mosse Cyber Security Institute Certifications: MOIS, MNSE, MRCI, MBT, MDFIR, MGRC, MPT, MRE, MTH, MCD, MRT, and MTIA
 - Added GIAC Certification: GCPN
