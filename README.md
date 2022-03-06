@@ -8,7 +8,9 @@ I am open to restructing this html if a better way is known. I am a beginner at 
 ## Change Log
 
 ### March 2022:
+- Added Azure SC-300: Identity and Access Administrator
 - Added Azure Security Technologies certificate: AZ-500
+- removed Azure Security Engineer Assocaite as it's a course that can be correlated to AZ-500 exam
 - Changed depricated Cloud Security Alliance Certification: CGC to CCAK
 - Added GIAC Certification: GCLD
 - Added Linux Foundation Certification: CKS
