@@ -8,6 +8,7 @@ I am open to restructing this html if a better way is known. I am a beginner at 
 ## Change Log
 
 ### March 2022:
+- Added Azure Security Technologies certificate: AZ-500
 - Changed depricated Cloud Security Alliance Certification: CGC to CCAK
 - Added GIAC Certification: GCLD
 - Added Linux Foundation Certification: CKS
